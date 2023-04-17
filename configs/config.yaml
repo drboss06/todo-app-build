@@ -1,9 +1,9 @@
 port: "8000"
 
 db:
-  username: "postgres"
-  password: "qwerty"
-  host: "localhost"
+  username: "zeldini"
+  password: "VtcSfXyusiPvOILyD6plyfkH6kNFcDLd"
+  host: "dpg-cgslrb0rddl5dquk8vf0-a"
   port: "5436"
-  dbname: "postgres"
-  sslmode: "disable"
+  dbname: "zeldinidb"
+  sslmode: "enable"
