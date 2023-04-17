@@ -6,4 +6,4 @@ db:
   host: "dpg-cgslrb0rddl5dquk8vf0-a"
   port: "5432"
   dbname: "zeldinidb"
-  sslmode: "enabled"
+  sslmode: "disable"
