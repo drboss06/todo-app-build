@@ -4,6 +4,6 @@ db:
   username: "zeldini"
   password: "VtcSfXyusiPvOILyD6plyfkH6kNFcDLd"
   host: "dpg-cgslrb0rddl5dquk8vf0-a"
-  port: "5436"
+  port: "5432"
   dbname: "zeldinidb"
   sslmode: "enable"
