@@ -2,8 +2,8 @@ port: "8000"
 
 db:
   username: "zeldini"
-  password: "VtcSfXyusiPvOILyD6plyfkH6kNFcDLd"
-  host: "dpg-cgslrb0rddl5dquk8vf0-a"
+  password: "gHS1KRDtszIqWS7Jnup6fQPySBdVZ82y"
+  host: "dpg-cppt88eehbks73c892t0-a"
   port: "5432"
-  dbname: "zeldinidb"
+  dbname: "zeldinidb_jxm7"
   sslmode: "disable"
